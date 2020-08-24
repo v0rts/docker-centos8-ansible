@@ -1,6 +1,8 @@
 # CentOS 8.x Ansible Test Image
 
 [![Docker Automated build](https://img.shields.io/docker/automated/v0rts/docker-centos8-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/v0rts/docker-centos8-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/pulls/v0rts/docker-centos8-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/v0rts/docker-centos8-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/stars/v0rts/docker-centos8-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/v0rts/docker-centos8-ansible/)
 
 CentOS 8.x Docker container for Ansible playbook and role testing.
 
